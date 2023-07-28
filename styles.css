@@ -1,0 +1,28 @@
+body {
+  background-color: #697a84;
+  color:#dcd5cb;
+  font-family: Arial ;
+  text-align: center;
+}
+
+.center {
+  margin-left:auto;
+  margin-right:auto
+}
+
+h1 {
+  color: #dcd5cb;
+}
+
+h3 {
+  color: #dcd5cb;
+}
+
+hr {
+  height: 0;
+  border-color: #dcd5cb;
+  border-top-style: groove;
+  border-width: 1px;
+  width: 50%;
+}
+
